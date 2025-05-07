@@ -44,43 +44,37 @@ Everything worked as expected. It was cool being able to manage the CentOS VM en
 #### ⌨️ Step 5: Running Commands in the Remote Session
 Now that I was connected, I ran a few Linux commands to test things out:
 
-#### whoami:
-Displays the username of the currently logged-in user.
+#### whoami: Displays the username of the currently logged-in user.
 
 <p align="center">
 <img src="https://i.imgur.com/kOFzxBl.png" alt="osTicket logo"/>
 </p>
 
-#### hostname:
-Shows the name of your machine.
+#### hostname: Shows the name of your machine.
 
 <p align="center">
 <img src="https://i.imgur.com/lmEwfjq.png" alt="osTicket logo"/>
 </p>
 
-#### pwd:
-Prints the full path of your current working directory.
+#### pwd: Prints the full path of your current working directory.
 
 <p align="center">
 <img src="https://i.imgur.com/yjhEsph.png" alt="osTicket logo"/>
 </p>
 
-#### ls -l ~/:
-Lists all files and directories in your home folder in long (detailed) format.
+#### ls -l ~/: Lists all files and directories in your home folder in long (detailed) format.
 
 <p align="center">
 <img src="https://i.imgur.com/STBFsH5.png" alt="osTicket logo"/>
 </p>
 
-#### df -h:
-Displays disk-usage statistics for all mounted filesystems in a human-readable format.
+#### df -h: Displays disk-usage statistics for all mounted filesystems in a human-readable format.
 
 <p align="center">
 <img src="https://i.imgur.com/y5Ux4V8.png" alt="osTicket logo"/>
 </p>
 
-#### free -h:
-Shows total, used, and free memory (RAM) in a human-readable format.
+#### free -h: Shows total, used, and free memory (RAM) in a human-readable format.
 
 <p align="center">
 <img src="https://i.imgur.com/Q1djTw0.png" alt="osTicket logo"/>
