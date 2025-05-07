@@ -1,5 +1,6 @@
 # 🧪 PuTTY SSH Lab with Hyper-V Linux VMs
 ### 🖼️ Lab Overview
+In this lab, I practiced using PuTTY to connect from my Windows machine to a CentOS virtual machine running in Hyper-V. My goal was to understand how to securely access and manage a remote Linux system over SSH, starting from verifying the SSH service to running commands from my Windows desktop.
 
 #### 🛠️ Step 1: Making Sure SSH Is Running on CentOS
 I started by logging directly into the CentOS VM through the Hyper-V console. Once inside the terminal, I checked if the SSH service (sshd) was running by using this command:
