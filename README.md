@@ -18,8 +18,9 @@ Everything worked as expected. It was cool being able to manage the CentOS VM en
 
 #### ⌨️ Step 5: Running Commands in the Remote Session
 Now that I was connected, I ran a few Linux commands to test things out:
+
 Then I ran a system update with:
-The first time, PuTTY asked if I trusted the SSH key (I clicked Yes), then it prompted me for my CentOS username and password. Once I entered them, I was logged into the CentOS terminal from Windows!
+
 Everything worked as expected. It was cool being able to manage the CentOS VM entirely from a PuTTY terminal.
 
 ### 🏁 Goals Accomplished
