@@ -23,24 +23,24 @@ The first time, PuTTY asked if I trusted the SSH key (I clicked Yes), then it pr
 Everything worked as expected. It was cool being able to manage the CentOS VM entirely from a PuTTY terminal.
 
 ### 🏁 Goals Accomplished
-Set up and verified SSH access on two Linux VMs.
+##### ✅Set up and verified SSH access on two Linux VMs.
 
-Successfully connected to both VMs using PuTTY from a Windows host.
+##### ✅Successfully connected to both VMs using PuTTY from a Windows host.
 
-Practiced common Linux commands in a remote shell session.
+##### ✅Practiced common Linux commands in a remote shell session.
 
-Gained hands-on experience with remote system administration.
+##### ✅Gained hands-on experience with remote system administration.
 
 ### ⚙️ Technology Stack
-Host OS: Windows 10/11
+##### ✅Host OS: Windows 10/11
 
-Virtualization: Hyper-V
+##### ✅Virtualization: Hyper-V
 
-Linux Distributions: Ubuntu (with OpenSSH), CentOS (with OpenSSH)
+##### ✅Linux Distributions: Ubuntu (with OpenSSH), CentOS (with OpenSSH)
 
-SSH Client: PuTTY
+##### ✅SSH Client: PuTTY
 
-Network Mode: External Virtual Switch on Hyper-V
+##### ✅Network Mode: External Virtual Switch on Hyper-V
 
-Terminal Commands: SSH service management, IP identification, Linux command-line basics
+##### ✅Terminal Commands: SSH service management, IP identification, Linux command-line basics
 
