@@ -19,7 +19,23 @@ Everything worked as expected. It was cool being able to manage the CentOS VM en
 #### ⌨️ Step 5: Running Commands in the Remote Session
 Now that I was connected, I ran a few Linux commands to test things out:
 
-Then I ran a system update with:
+#### whoami
+Displays the username of the currently logged-in user.
+
+#### hostname
+Shows the name of your machine.
+
+#### pwd
+Prints the full path of your current working directory.
+
+#### ls -l ~/
+Lists all files and directories in your home folder in long (detailed) format.
+
+#### df -h
+Displays disk-usage statistics for all mounted filesystems in a human-readable format.
+
+#### free -h
+Shows total, used, and free memory (RAM) in a human-readable format.
 
 Everything worked as expected. It was cool being able to manage the CentOS VM entirely from a PuTTY terminal.
 
